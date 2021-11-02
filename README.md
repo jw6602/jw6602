@@ -30,7 +30,9 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/junyu--wang'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/KaxyNetwork'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.twitter.com/KaxyNetwork'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
+<a href = 'https://join.skype.com/invite/ttsNaYMuK9MM'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/skype.svg"/></a> 
+<a href = 'https://msng.link/o/?kaxynetworkjunyu=tg'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a> 
 <a href = 'https://www.github.com/jw6602'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'https://opensea.io/kaxy'> <img width = '32px' align= 'center' 
 src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.svg"/></a> 
